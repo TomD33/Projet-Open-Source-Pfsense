@@ -47,4 +47,4 @@ Pour garantir son bon fonctionnement, il est important qu'il utilise la même in
 
 
 - **SCHEMA**  
-[Image](https://imgur.com/doabRM1)
+![Image](https://imgur.com/doabRM1)
