@@ -10,11 +10,7 @@ Outils pour le projet
 - 2 VMs avec 2 isos Pfsense
 - Vagrant pour up les 2 Vms
 - Ansible en phase de méditation pour le projet
-- 
-
 **Objectif pour la partie Réseau** :
-
-
 **Principe de fonctionnement**  
   
 pfSense communique sur les réseaux LAN & WAN avec ses adresses IP virtuelles ; il n'utilise jamais l'adresse IP assignée à son interface.  
@@ -43,7 +39,5 @@ La réplication peut se faire d'un serveur primaire vers un ou plusieurs autres 
   
 XML-RPC est un protocole permettant la réplication de données d'un serveur vers un autre. Il est utilisé dans pfSense afin de répliquer la configuration du serveur primaire vers le serveur secondaire.  
 Pour garantir son bon fonctionnement, il est important qu'il utilise la même interface que celle utilisée par le protocole pfsync.
-
 **SCHEMA**  
-
 ![enter image description here](https://lh3.googleusercontent.com/Xt_HmAOl0Zg5IIloTKQpkUY51tv9RoxMoagKJULUxPV8w2NUARvriTCxAzNrwkkzbhFDLRwLLBgQ)
