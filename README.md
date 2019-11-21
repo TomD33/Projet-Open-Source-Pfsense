@@ -46,5 +46,6 @@ XML-RPC est un protocole permettant la réplication de données d'un serveur ver
 Pour garantir son bon fonctionnement, il est important qu'il utilise la même interface que celle utilisée par le protocole pfsync.
 
 
+
 - **SCHEMA**  
 ![](https://i.imgur.com/doabRM1.png)
