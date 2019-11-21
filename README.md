@@ -48,4 +48,4 @@ Pour garantir son bon fonctionnement, il est important qu'il utilise la même in
 
 - **SCHEMA**  
 
-![enter image description here](https://lh3.googleusercontent.com/Xt_HmAOl0Zg5IIloTKQpkUY51tv9RoxMoagKJULUxPV8w2NUARvriTCxAzNrwkkzbhFDLRwLLBgQ)
+!(https://lh3.googleusercontent.com/Xt_HmAOl0Zg5IIloTKQpkUY51tv9RoxMoagKJULUxPV8w2NUARvriTCxAzNrwkkzbhFDLRwLLBgQ)
