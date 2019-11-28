@@ -11,10 +11,10 @@
 - Arsene Bascop
 
 Outils pour le projet
-- VirtualBox
+-  Terraform avec google plateforme
 - 2 VMs avec 2 isos Pfsense
-- Vagrant pour up les 2 Vms
-- Ansible en phase de méditation pour le projet
+- Vagrant pour up les 2 Vms 
+- Ansible déploiment des confs des machines
 
 
 
