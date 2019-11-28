@@ -23,7 +23,8 @@ Outils pour le projet
 - **Principe de fonctionnement**  
  
 pfSense communique sur les réseaux LAN & WAN avec ses adresses IP virtuelles ; il n'utilise jamais l'adresse IP assignée à son interface.  
-En cas de défaillance de pfSenseA (pfSense primaire), pfSenseB (pfSense secondaire) prend le relais **sans aucune interruption de service**. La bascule de pfSenseA vers pfSenseB est totalement transparente.  
+En cas de défaillance de pfSenseA (pfSense primaire), pfSenseB (pfSense secondaire) prend le relais **sans aucune interruption de service**. La bascule de pfSenseA vers pfSenseB est totalement transparente. 
+Monotoring pour obtenir une gestion de terraform  log et ansible puis les pfsenses.
  
 Afin d'assurer la réplication du serveur pfSenseA vers le serveur pfSenseB, 3 éléments doivent être configurés : CARP, pfsync et XML-RPC.  
  
