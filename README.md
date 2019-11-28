@@ -6,7 +6,7 @@
 **Le Projet comporte 4 personnes Master 1 Informatique**
 
 - Thomas Maurin
-- Thomas buval
+- Thomas Duval
 - Clément Cloux
 - Arsene Bascop
 
