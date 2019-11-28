@@ -11,10 +11,9 @@
 - Arsene Bascop
 
 Outils pour le projet
--  Terraform avec google plateforme
+-  Terraform avec google plateforme pour lancement des machines
 - 2 VMs avec 2 isos Pfsense
-- Vagrant pour up les 2 Vms 
-- Ansible déploiment des confs des machines
+-- Ansible déploiment des confs des machines
 
 
 
