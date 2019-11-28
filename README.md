@@ -6,9 +6,9 @@
 **Le Projet comporte 4 personnes Master 1 Informatique**
 
 - Thomas Maurin
-- Thomas Duval
+- Thomas buval
 - Clément Cloux
-- Arsene Basckop
+- Arsene Bascop
 
 Outils pour le projet
 - VirtualBox
