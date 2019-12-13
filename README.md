@@ -10,10 +10,11 @@
 - Clément Cloux
 - Arsene Bascop
 
-Outils pour le projet
--  Terraform avec google plateforme pour lancement des machines
-- 2 VMs avec 2 isos Pfsense
+Outils  pour notre projet :
+-  Terraform avec google plateforme pour lancement des machines 
+- 2 VMs avec 2 isos Pfsense configurer avec Terraform
 -- Ansible déploiment des confs des machines
+- Monitoring pour un visionnage  des machines
 
 
 
